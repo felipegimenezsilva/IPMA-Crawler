@@ -1,6 +1,6 @@
-# IPMA-Crawler
+# IPMA-Crawler (UNNOFICIAL)
 
-### IPMA Open-Data Crawler
+### IPMA Open-Data Crawler 
 
 IPMA Open API refers to the open data service provided by the Portuguese Institute for the Sea and the Atmosphere (IPMA). IPMA is a government agency responsible for weather and sea conditions forecasting, and provides a range of meteorological and oceanographic services to the public, including data on temperature, precipitation, wind, and wave conditions, among others.
 
@@ -10,7 +10,7 @@ The IPMA Open API is free to use, and developers are encouraged to use the servi
 
 ### Project Description
 
-This algorithm crawls through the IPMA Open Data API to search and process information, collecting the file name, file URL, and the date/time of the last update for each file. It returns a pandas dataframe and functions as a web crawler. This project aims to create a list of content and streamline the process of checking for updates to the content available in the API.
+This algorithm crawls through the IPMA Open Data API to search and process information, collecting the file name, file URL, and the date/time of the last update for each file. It returns a pandas dataframe and functions as a web crawler. This project aims to create a list of content to facilitate the process of checking for updates to the content available in the API by external projects.
 
 Please note that this program is available for anyone to use, but it should be used with caution and used in accordance with the permissions provided by IPMA.
 
